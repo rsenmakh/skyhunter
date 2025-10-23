@@ -52,7 +52,7 @@
 
 1. Натискаємо на значок шестерні, обираємо пункт меню "Відладка". Можна залишити все, як є тільки координати додаємо ті, що скопіювали раніше з маркеру. Натискаємо на **Запустити**.
 ![add-planes](/assets/add-planes.png "add-planes")
-![add-planes1](/assets/add-planes1.png "add-planes1")
+![add-planes1](/assets/add-planes1.png "add-planes-1")
 3. Обираємо ціль, яку призначемо своєю. Для цього клікаємо на обраний літак і натискаємо на **Свій**. На наступному кроці привʼязуємо ціль до нашого розрахунку. (Аналогічно робимо для ворожого літака)
 ![define-my-plane](/assets/define-my-plane.png "define-my-plane")
 ![define-target](/assets/define-target.png "define-target")
