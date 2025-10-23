@@ -56,13 +56,20 @@
 2. Обираємо ціль, яку призначемо своєю. Для цього клікаємо на обраний літак і натискаємо на **Свій**. На наступному кроці привʼязуємо ціль до нашого розрахунку. (Аналогічно робимо для ворожого літака)
 ![define-my-plane](/assets/define-my-plane.png "define-my-plane")
 ![define-target](/assets/define-target.png "define-target")
-3. Аналогічно створюємо та прив'язуємо інші цілі. Як тільки цілі прив'язана до розрахунку, вони повинні відразу з'явитися в інтерфейсі **SkyHunter**.
- 
+3. Аналогічно створюємо та прив'язуємо інші цілі. Як тільки цілі прив'язані до розрахунку, вони повинні відразу з'явитися в інтерфейсі **SkyHunter**.
+![skyhunter-targets](/assets/skyhunter-targets.png "skyhunter-targets")
+
 -----
 
 ## Інтерфейс симулятора в SkyHunter
 
-1. Клікаємо на мапі в тому місці, де хочемо створити дрон, та натискаємо **Створити симулятор»**. Процес може зайняти близько **2 хвилин**.
-![skyhunter](/assets/skyhunter.png "skyhunter")
+1. Клікаємо на мапі в тому місці, де хочемо створити дрон, та натискаємо **Створити симулятор»**. Процес може зайняти близько **2-x хвилин**.
+![skyhunter-create-mission](/assets/skyhunter-create-mission.png "skyhunter-create-mission")
+![skyhunter-mission](/assets/skyhunter-mission.png "skyhunter-mission")
+
 2. **Прив'язуємо БПЛА до цілі**. Клікаємо на цілі та у списку обираємо наш БПЛА.
+![skyhunter-define-target](/assets/skyhunter-define-target.png "skyhunter-define-target")
+
 3. **Запуск місії**. Клікаємо на БПЛА та вибираємо пункт **«Почати місію»**.
+![skyhunter-start-mission](/assets/skyhunter-start-mission.png "skyhunter-start-mission")
+
