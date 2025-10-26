@@ -1,6 +1,6 @@
 # Інструкція по підключенню до системи SkyHunter (Skymap, ZeroTier)
 
-1. **Реєструємо аккаунт Skyhunter** та [входимо в систему](https://app.skyhuntertech.com/login) до особистого кабінету.  
+1. [**Реєструємо аккаунт Skyhunter**](https://app.skyhuntertech.com/register) та [входимо в систему](https://app.skyhuntertech.com/login) до особистого кабінету.  
 ![Login](/assets/dashboard-login.png "Title")
   >Повідомлення зверху інформує про те, що **немає підключення до радару**.
 ![no connection](/assets/notification.png "notification")
@@ -82,7 +82,7 @@
 Для передачі телеметрії нам необхідно зробити наступні кроки:
 1. Підключаємось до **MissionPlaner**.
    ![mission-planner](/assets/mission-planner.png "mission-planner")
-3. Переходимо в **Setup/Advanced**, клікаємо на **Mavlink Mirror** і прописуємо необхідні параметри (**IP** використовуємо той, що отримали на початку. Обов'язково ставимо чекбокс **Write**).
+3. Переходимо в **Setup/Advanced**, клікаємо на **Mavlink Mirror** і прописуємо необхідні параметри (**IP-адресу** `78.193.54.121` використовуємо ту, що отримали на початку. Обов'язково ставимо чекбокс **Write**).
    ![mission-planner-advanced.png](/assets/mission-planner-advanced.png "mission-planner-advanced.png")
 5. Натискаємо на **GO**.
    (Якщо не підключається, то у вас немає підключення до ВПН або вказані некоректні дані (Хост або порт)).
